@@ -15,7 +15,7 @@ A character-based tokenization application built with Next.js , featuring bidire
 
 ## 🚀 Live Demo
 
-[View the live application](tokenizer-inky.vercel.app)
+[View the live application](https://tokenizer-inky.vercel.app/)
 
 ## 🛠️ Tech Stack
 
